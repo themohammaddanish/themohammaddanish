@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themohammaddanish
-- 👀 I’m interested in react developer 
+- 👀 I’m interested in react and python developer 
 - 🌱 I’m currently learning front end development 
-- 💞️ I’m looking to collaborate on react developer
+- 💞️ I’m looking to collaborate on react and python developer
 - 📫 How to reach me mohameddaniss@gmail.com
 
 <!---
