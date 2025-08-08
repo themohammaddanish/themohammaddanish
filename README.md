@@ -1,3 +1,4 @@
+<!---
 # 👋 Hi, I’m @themohammaddanish
 
 - 👀 I’m interested in React and Python development.
@@ -10,7 +11,7 @@ themohammaddanish/themohammaddanish is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -26,4 +27,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=themohammaddanish&show_icons=true&locale=en&layout=compact" alt="themohammaddanish" /></p>
+--->
 
